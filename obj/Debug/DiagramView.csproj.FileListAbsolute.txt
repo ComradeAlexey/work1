@@ -1,0 +1,13 @@
+C:\Users\Ivan\source\repos\DiagramView\bin\Debug\DiagramView.exe.config
+C:\Users\Ivan\source\repos\DiagramView\bin\Debug\DiagramView.exe
+C:\Users\Ivan\source\repos\DiagramView\bin\Debug\DiagramView.pdb
+C:\Users\Ivan\source\repos\DiagramView\obj\Debug\DiagramView.csprojAssemblyReference.cache
+C:\Users\Ivan\source\repos\DiagramView\obj\Debug\DiagramView.Form1.resources
+C:\Users\Ivan\source\repos\DiagramView\obj\Debug\DiagramView.Properties.Resources.resources
+C:\Users\Ivan\source\repos\DiagramView\obj\Debug\DiagramView.csproj.GenerateResource.cache
+C:\Users\Ivan\source\repos\DiagramView\obj\Debug\DiagramView.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\DiagramView\obj\Debug\DiagramView.exe
+C:\Users\Ivan\source\repos\DiagramView\obj\Debug\DiagramView.pdb
+C:\Users\Ivan\source\repos\DiagramView\obj\Debug\DiagramView.csproj.ResolveComReference.cache
+C:\Users\Ivan\source\repos\DiagramView\bin\Debug\Xceed.Words.NET.dll
+C:\Users\Ivan\source\repos\DiagramView\obj\Debug\DiagramView.csproj.CopyComplete
